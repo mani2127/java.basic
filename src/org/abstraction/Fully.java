@@ -2,9 +2,10 @@ package org.abstraction;
 
 public interface Fully {
 	
-	public abstract  void fixed();
-	public abstract void loan();
-	public abstract void savings();
+	public void fixed();
+	public void loan();
+	public void savings();
+	
 
 }
 
